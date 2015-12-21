@@ -1,0 +1,1 @@
+./local.virtualenv/bin/ipython
